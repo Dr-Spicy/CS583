@@ -1,0 +1,9 @@
+Overall accuracy: 0.62070732957457719
+
+             precision    recall  f1-score   support
+
+       -1.0       0.59      0.71      0.64       688
+        0.0       0.61      0.58      0.60       681
+        1.0       0.69      0.56      0.62       582
+
+avg / total       0.63      0.62      0.62      1951
